@@ -14,5 +14,5 @@ THONG TIN LIEN HE
 
 Nguoi phu trach : Nguyen Thi Phuong
 Vai tro         : QA / Tester
-Email           : tester.cjawtc@example.com
+Email           : nguyen.thi.phuong-b@sun-asterisk.com
 So dien thoai   : 0944 497 902
