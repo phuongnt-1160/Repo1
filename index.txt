@@ -1,4 +1,4 @@
-DANH SACH TEST CASE
+DANH SACH 13/10
 ===================
 
 ID      | Ten test case                              | Muc do  | Trang thai
