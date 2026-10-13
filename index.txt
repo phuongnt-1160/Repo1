@@ -9,3 +9,11 @@ TC-002  | Dang nhap voi mat khau sai                 | High    | Not run
 TC-003  | Dang nhap bo trong username/password       | Medium  | Not run
 TC-004  | Dang xuat khoi he thong                    | Medium  | Not run
 TC-005  | Quen mat khau - gui email khoi phuc        | Low     | Not run
+
+THONG TIN LIEN HE
+=================
+
+Nguoi phu trach : Nguyen Thi Phuong
+Vai tro         : QA / Tester
+Email           : nguyen.thi.phuong-b@sun-asterisk.com
+So dien thoai   : 0944 497 902
