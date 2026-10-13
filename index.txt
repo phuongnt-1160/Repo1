@@ -1,0 +1,10 @@
+DANH SACH TEST CASE
+===================
+
+ID      | Ten test case                              | Muc do  | Trang thai
+--------|--------------------------------------------|---------|-----------
+TC-001  | Dang nhap voi tai khoan hop le             | High    | Not run
+TC-002  | Dang nhap voi mat khau sai                 | High    | Not run
+TC-003  | Dang nhap bo trong username/password       | Medium  | Not run
+TC-004  | Dang xuat khoi he thong                    | Medium  | Not run
+TC-005  | Quen mat khau - gui email khoi phuc        | Low     | Not run
