@@ -14,5 +14,5 @@ THONG TIN LIEN HE
 
 Nguoi phu trach : Nguyen Thi Phuong
 Vai tro         : QA / Tester
-Email           : <email>
-So dien thoai   : <so dien thoai>
+Email           : tester.cjawtc@example.com
+So dien thoai   : 0944 497 902
