@@ -1,4 +1,4 @@
-DANH SACH TEST CASE
+DANH SACH TEST CASE - SPRINT 1
 ===================
 
 ID      | Ten test case                              | Muc do  | Trang thai
