@@ -14,6 +14,6 @@ THONG TIN LIEN HE
 =================
 
 Nguoi phu trach : Nguyen Thi Phuong
-Vai tro         : QA / Tester
+Vai tro         : Manual Tester
 Email           : nguyen.thi.phuong-b@sun-asterisk.com
 So dien thoai   : 0944 497 902
