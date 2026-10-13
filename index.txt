@@ -1,4 +1,5 @@
 DANH SACH TEST CASE - SPRINT 1
+DANH SACH 13/10
 ===================
 
 ID      | Ten test case                              | Muc do  | Trang thai
